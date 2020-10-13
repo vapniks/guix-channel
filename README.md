@@ -1,2 +1,3 @@
 # guix-channel
-Personal guix channel for packages that aren't available from the default GNU guix channel
+Personal guix channel for package definitions that I haven't been able to find elsewhere.
+
